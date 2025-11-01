@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/platform-driver/platform_driver.mod := printf '%s\n'   platform_driver.o | awk '!x[$$0]++ { print("/home/dhana/repo/linux-kernel-drivers/examples/platform-driver/"$$0) }' > /home/dhana/repo/linux-kernel-drivers/examples/platform-driver/platform_driver.mod

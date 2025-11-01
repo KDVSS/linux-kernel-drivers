@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/platform-driver/modules.order := {   echo /home/dhana/repo/linux-kernel-drivers/examples/platform-driver/platform_driver.o;   echo /home/dhana/repo/linux-kernel-drivers/examples/platform-driver/platform_device.o; :; } > /home/dhana/repo/linux-kernel-drivers/examples/platform-driver/modules.order
