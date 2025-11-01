@@ -38,5 +38,4 @@ You’ll find examples of:
 │ └── power-mode/ # Power management and sleep demo  
 ├── scripts/ # Build and testing automation scripts  
 ├── tools/ # User-space test programs for drivers  
-└── .github/workflows/ # CI configuration for module builds
-```
+└── .github/workflows/ # CI configuration for module builds  
