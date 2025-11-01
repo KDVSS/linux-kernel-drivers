@@ -6,10 +6,10 @@ static int start_init(void){
 	return 0;
 }
 
-void end_init(){
+static void exit_init(void){
 	printk("Bye! \n");
 }
 module_init(start_init);
-module_exit(end_init);
+module_exit(exit_init);
 
 MODULE_LICENSE("GPL");

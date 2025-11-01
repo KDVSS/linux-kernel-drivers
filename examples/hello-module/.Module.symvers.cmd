@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/hello-module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dhana/repo/linux-kernel-drivers/examples/hello-module/Module.symvers -T /home/dhana/repo/linux-kernel-drivers/examples/hello-module/modules.order -i Module.symvers -e 

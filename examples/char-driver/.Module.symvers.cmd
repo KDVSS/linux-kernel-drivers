@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/char-driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dhana/repo/linux-kernel-drivers/examples/char-driver/Module.symvers -T /home/dhana/repo/linux-kernel-drivers/examples/char-driver/modules.order -i Module.symvers -e 

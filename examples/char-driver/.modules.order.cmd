@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/char-driver/modules.order := {   echo /home/dhana/repo/linux-kernel-drivers/examples/char-driver/char_driver.o; :; } > /home/dhana/repo/linux-kernel-drivers/examples/char-driver/modules.order

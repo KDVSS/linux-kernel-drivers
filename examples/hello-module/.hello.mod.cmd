@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/hello-module/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/dhana/repo/linux-kernel-drivers/examples/hello-module/"$$0) }' > /home/dhana/repo/linux-kernel-drivers/examples/hello-module/hello.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/char-driver/char_driver.mod := printf '%s\n'   char_driver.o | awk '!x[$$0]++ { print("/home/dhana/repo/linux-kernel-drivers/examples/char-driver/"$$0) }' > /home/dhana/repo/linux-kernel-drivers/examples/char-driver/char_driver.mod
