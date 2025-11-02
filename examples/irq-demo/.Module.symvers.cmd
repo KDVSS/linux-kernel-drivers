@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/irq-demo/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dhana/repo/linux-kernel-drivers/examples/irq-demo/Module.symvers -T /home/dhana/repo/linux-kernel-drivers/examples/irq-demo/modules.order -i Module.symvers -e 
