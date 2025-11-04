@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/proc-demo/proc_demo.mod := printf '%s\n'   proc_demo.o | awk '!x[$$0]++ { print("/home/dhana/repo/linux-kernel-drivers/examples/proc-demo/"$$0) }' > /home/dhana/repo/linux-kernel-drivers/examples/proc-demo/proc_demo.mod
