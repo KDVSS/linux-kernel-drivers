@@ -18,13 +18,15 @@ __section(".gnu.linkonce.this_module") = {
 
 static const struct modversion_info ____versions[]
 __used __section("__versions") = {
-	{ 0x8dddc5e0, "platform_device_register" },
 	{ 0x122c3a7e, "_printk" },
+	{ 0x8dddc5e0, "platform_device_register" },
+	{ 0xfa474811, "__platform_driver_register" },
 	{ 0x23e91bcc, "platform_device_unregister" },
+	{ 0x61fd46a9, "platform_driver_unregister" },
 	{ 0x474e54d2, "module_layout" },
 };
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "389675B97E21688020755B2");
+MODULE_INFO(srcversion, "62329AA46ED443EF12F6E52");
