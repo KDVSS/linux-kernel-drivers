@@ -1,0 +1,1 @@
+savedcmd_/home/dhana/repo/linux-kernel-drivers/examples/rpi_bringup_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dhana/repo/linux-kernel-drivers/examples/rpi_bringup_driver/Module.symvers -T /home/dhana/repo/linux-kernel-drivers/examples/rpi_bringup_driver/modules.order -i Module.symvers -e 
